@@ -1,4 +1,4 @@
-# Dense Neural Network using M4 Globular Cluster Data
+# Dense Neural Network Using M4 Globular Cluster Data
 
 1. Introduction
 
