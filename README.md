@@ -1,5 +1,4 @@
 # Dense Neural Network using M4 Globular Cluster Data
-Kate Luerken, (kluerken@uoregon.edu)
 
 1. Introduction
 
